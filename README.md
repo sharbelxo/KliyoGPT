@@ -10,9 +10,6 @@ In this repository, KLIYO the chatbot acquires some ChatGPT capabilities!
 - Node.js
 - OpenAI
 
-## Try it Now!
-https://kliyo-gpt.vercel.app/
-
 ## Overview
 ### Web App View:
 ![Screenshot 2022-12-27 142037](https://user-images.githubusercontent.com/72712113/209666072-eeef9b51-cb62-43a6-9cb9-855d99380658.png)
